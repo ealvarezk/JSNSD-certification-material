@@ -1,0 +1,23 @@
+{
+  "name": "jsnsd-certification-material",
+  "version": "0.0.1",
+  "description": "JSNSD certification learning material",
+  "repository": {
+    "type": "git@github.com:ealvarezk/jsnsd-certification-material.git"
+  },
+  "keywords": [
+    "javascript",
+    "JS",
+    "ES6",
+    "ECMAScript",
+    "node",
+    "JSNAD"
+  ],
+  "author": "Ezequiel Alvarez <ezequielalvarez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ealvarezk/jsnsd-certification-material/issues"
+  },
+  "homepage": "https://github.com/ealvarezk/jsnsd-certification-material#readme",
+  "private": true
+}
