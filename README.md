@@ -2,7 +2,7 @@
 
 Practical exercises to prepare the JSNAD certification
 
-See : https://training.linuxfoundation.org/certification/jsnad/
+See : https://training.linuxfoundation.org/certification/jsnsd/
 
 - [Creating a Web Server](./001_creating_web_server/readme.md)
 - [Serving Web Content](./002_serving_web_content/readme.md)
