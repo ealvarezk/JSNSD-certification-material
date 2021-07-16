@@ -5,6 +5,11 @@ In Node.js binary data is handled with the Buffer constructor. The Buffer constr
 npm init fastify
 npm install
 ```
+or to integrate Fastify into an existing project 
+```
+npm init fastify -- --integrate
+npm install
+```
 ## Scripts
 In the scripts field of the package.json we can see a `start` field and a `dev` field. The fastify `start` command automatically starts the server. Notice we have no defined port, this is because fastify start defaults to port 3000, it could be configured with the -p flag (lowercase) if desired.
 
